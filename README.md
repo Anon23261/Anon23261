@@ -26,25 +26,42 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Anon23261&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&custom_title=Ghost%20Sec%20Stats&hide=issues&rank_icon=percentile&show_owner=true&count_private=true&hide_rank=false&cache_seconds=1800&include_all_commits=true&line_height=29&text_bold=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&custom_title=Ghost%20Sec%20Stats&hide=issues&show_owner=true&include_all_commits=true&rank_icon=percentile&count_private=true&show_icons=true&theme=radical&stats_count=370&contributions=60&prs_count=4&stars_count=66&cache_seconds=0"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Code%20Arsenal&hide=html,css,jupyter%20notebook&card_width=400&line_height=35"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&custom_title=Code%20Arsenal&hide=html,css,jupyter%20notebook&card_width=445"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4"/>
 </div>
 
 ## [🔱] Technical Proficiency
 
 <div align="center">
 
+### Core Languages
 ![C++](https://img.shields.io/badge/C++-Primary%20Language-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Secondary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Core%20Development-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-System%20Architecture-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-Frontend%20Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend%20Master-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Full%20Stack-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Framework%20Pro-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-Container%20Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration%20Pro-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Architecture-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6B6B?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 </div>
 
