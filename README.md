@@ -38,10 +38,10 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20User&hide=html,css,javascript,python,c%2B%2B,rust,go&langs_count=1"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20Master&hide=html,css,javascript,python,c%2B%2B,rust,go&langs_count=1&card_width=445"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20User&hide=html,css,javascript,python,c%2B%2B,rust,go&langs_count=1" alt="Ghost Language User" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20Master&hide=html,css,javascript,python,c%2B%2B,rust,go&langs_count=1&card_width=445" alt="Ghost Language Master" />
   </picture>
 </p>
 
