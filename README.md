@@ -40,17 +40,23 @@ class Skills:
 
 ## [⚡] Stats Matrix
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&custom_title=Ghost%20Sec%20Operative%20Stats"/>
 </div>
 
-## [📊] Contribution Matrix
+## [📊] Language Arsenal
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=6&theme=radical&custom_title=Code%20Artillery&hide=html,css"/>
+</div>
+
+## [🎯] System Status
 ```css
-[*] Total Repositories : 57
-[*] Total Commits     : 360
-[*] Repository Stars  : 68
-[*] Tech Stack Size   : 8 languages
-[*] Current Status    : Always Coding
+[*] Current Grade    : A-
+[*] Primary Language : C++ (System Architecture)
+[*] Secondary Lang   : Python (Security Tools)
+[*] Total Commits    : 360
+[*] Repositories     : 57
+[*] Project Stars    : 68
+[*] Status          : Active Development
 ```
 
 ## [🎯] Current Operations
