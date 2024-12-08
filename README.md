@@ -12,7 +12,7 @@
 ## [⚡] Stats Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&custom_title=Ghost%20Sec%20Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&custom_title=Ghost%20Sec%20Stats&hide=issues&show_owner=true&rank_icon=percentile&include_all_commits=true&number_format=long&repo=58&stars=68" width="400"/>
 </p>
 
 <p align="center">
