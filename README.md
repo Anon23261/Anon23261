@@ -11,17 +11,13 @@
 
 ## [⚡] Stats Matrix
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&custom_title=Ghost%20Sec%20Stats&hide=issues&show_owner=true&rank_icon=percentile&include_all_commits=true&number_format=long&repo=58&stars=68" width="400"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&custom_title=Ghost%20Sec%20Stats&hide=issues&show_owner=true&rank_icon=github&number_format=long&disable_animations=true&card_width=400"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&show_icons=true&theme=radical&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&custom_title=Code%20Arsenal&langs_count=8&hide=html,css" width="400"/>
-</p>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anon23261&layout=compact&show_icons=true&theme=radical&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&custom_title=Code%20Arsenal&langs_count=8&hide=html,css&card_width=400"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4" width="400" />
-</p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4&card_width=400"/>
+</div>
 
 ## [🔱] Technical Proficiency
 <div align="center">
