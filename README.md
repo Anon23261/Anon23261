@@ -40,12 +40,23 @@ class Skills:
 
 ## [⚡] Stats Matrix
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&custom_title=Ghost%20Sec%20Operative%20Stats"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true&custom_title=Ghost%20Sec%20Operative%20Stats&hide_border=true&bg_color=0D1117)](https://github.com/Anon23261)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide=html,css&langs_count=8&custom_title=Code%20Artillery&hide_border=true&bg_color=0D1117)](https://github.com/Anon23261)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anon23261&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
-## [📊] Language Arsenal
+## [🔱] Primary Arsenal
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=6&theme=radical&custom_title=Code%20Artillery&hide=html,css"/>
+
+![C++](https://img.shields.io/badge/C++-Primary%20Weapon-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Secondary%20Weapon-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Special%20Ops-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Tactical%20Support-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 </div>
 
 ## [🎯] System Status
@@ -102,21 +113,43 @@ int main() {
 ## [🛡️] Security Arsenal
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Advanced-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Proficient-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 </div>
 
-## [💻] Battle Station
-```python
-class Workspace:
-    operating_systems = ["Custom Linux", "Kali", "BlackArch"]
-    tools = ["IDA Pro", "GDB", "WireShark", "Ghidra"]
-    environments = ["Bare Metal", "Docker", "VM Arsenal"]
-    specialties = ["Kernel Development", "Memory Analysis", "Network Exploitation"]
+## [📡] Communication Channels
+```js
+const contact = {
+    email    : "[REDACTED]",
+    linkedin : "[CLASSIFIED]",
+    website  : "IN_DEVELOPMENT"
+}
 ```
+
+## [💉] System Injection Point
+```c
+int main() {
+    while(1) {
+        if (you.are_interested_in("cybersecurity" || "OS_development" || "hacking")) {
+            initiate_contact();
+            break;
+        }
+    }
+    return EXIT_SUCCESS;
+}
+```
+
+## [🏆] Achievement Matrix
+```css
+[★] Advanced OS Architecture Design
+[★] Custom Kernel Development
+[★] Zero-Day Vulnerability Research
+[★] Reverse Engineering Specialist
+[★] Full Stack Development Expert
+```
+
+## [🛡️] Security Arsenal
+<div align="center">
+
+</div>
 
 <div align="center">
 
