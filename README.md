@@ -48,18 +48,30 @@ public:
 
 <div align="center">
   <a href="https://github.com/Anon23261">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=System%20Architecture%20Stats" alt="System Architecture Stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&langs_count=8&hide=html,css&custom_title=Technical%20Arsenal" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=Ghost%20Sec%20Stats&hide_rank=true" alt="Ghost Sec github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&langs_count=10&custom_title=Code%20Arsenal&hide=html,css&card_width=300" />
   </a>
 </div>
+
+## [🏆] Key Metrics
+```css
+[*] Code Quality     : A (Static Analysis Grade)
+[*] Primary Focus    : System Architecture & Security
+[*] Core Language    : C++ (Low-Level Systems)
+[*] Secondary Lang   : Python (Security Tools)
+[*] Total Commits    : 360+
+[*] Repositories     : 57+
+[*] Project Stars    : 68+
+[*] Last Update     : 2024-12-08
+```
 
 ## [🔱] Technical Proficiency
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-System%20Architecture-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Security%20Research-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Performance%20Critical-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Systems%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Primary%20Language-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Secondary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Core%20Development-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-System%20Architecture-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
@@ -86,22 +98,10 @@ class TechnicalExpertise:
     ]
 ```
 
-## [🏆] Key Metrics
-```css
-[*] Code Quality     : A- (Static Analysis Grade)
-[*] Primary Focus    : System Architecture & Security
-[*] Core Language    : C++ (Low-Level Systems)
-[*] Specialization  : Kernel & OS Development
-[*] Total Commits    : 360 (Active Development)
-[*] Repositories     : 57 (System Components)
-[*] Project Impact   : 68 Stars (Community Recognition)
-[*] Last Update     : 2024-12-08
-```
-
 ## [📈] Professional Growth
 <div align="center">
   <a href="https://github.com/Anon23261">
-    <img width="70%" height="195px" src="https://streak-stats.demolab.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4" alt="Development Activity"/>
+    <img width="70%" height="195px" src="https://streak-stats.demolab.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4&hide_total_contributions=true" alt="Development Activity"/>
   </a>
 </div>
 
