@@ -28,22 +28,28 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=github&count_private=true&custom_stats=true&commits=370&prs=4&contributions=60&stars=66"
+      srcset="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=A-&count_private=true&custom_stats=true&commits=370&prs=4&contributions=60&stars=66&cache_seconds=0&disable_animations=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=github&count_private=true&custom_stats=true&commits=370&prs=4&contributions=60&stars=66" alt="Ghost Sec Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anon23261&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=A-&count_private=true&custom_stats=true&commits=370&prs=4&contributions=60&stars=66&cache_seconds=0&disable_animations=true" alt="Ghost Sec Stats" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20Arsenal&langs_count=8&custom_langs=Ghost%20Language%2095%%20Other%205%"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20User&hide=html,css,javascript,python,c%2B%2B,rust,go&langs_count=1"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20Arsenal&langs_count=8&custom_langs=Ghost%20Language%2095%%20Other%205%" alt="Ghost Language Arsenal" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Ghost%20Language%20User&hide=html,css,javascript,python,c%2B%2B,rust,go&langs_count=1" alt="Ghost Language User" />
   </picture>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ghost%20Language-Expert%20Level-ff91a4?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Commits-370+-ff91a4?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Grade-A--ff91a4?style=for-the-badge&labelColor=0d1117" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4"/>
