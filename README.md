@@ -26,11 +26,11 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=github&number_format=long&count_private=true&show_icons=true&PAT_1=ghp_your_pat_here&stats_count=370&contributions=60&prs_count=4&stars_count=66"/>
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Anon23261&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&custom_title=Ghost%20Sec%20Stats&hide=issues&rank_icon=percentile&show_owner=true&count_private=true&hide_rank=false&cache_seconds=1800&include_all_commits=true&line_height=29&text_bold=false"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=donut&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Code%20Arsenal&hide=html,css,jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Code%20Arsenal&hide=html,css,jupyter%20notebook&card_width=400&line_height=35"/>
 </div>
 
 <div align="center">
