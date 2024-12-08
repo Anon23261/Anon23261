@@ -16,7 +16,39 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Senior+System+Architect;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
+</div>
+
+## [💻] Full-Stack Development
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=Learning%20At&message=CodingTemple&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Progress&message=71%25%20Complete&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+</div>
+
+### Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure%20&%20Semantics-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-Styling%20&%20Layout-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-Dynamic%20Functionality-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" />
+</div>
+
+### Modern Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/React-Component%20Based%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bootstrap-Responsive%20Design-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Flask-Backend%20Framework-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
+</div>
+
+### Development Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Terminal-Command%20Line-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/grid.svg" width="100%">
 </div>
 
 ## [⚡] Professional Statistics
@@ -101,38 +133,6 @@ class TechnicalExpertise:
         "Contributed to open-source security tools"
     ]
 ```
-
-## [💻] Full-Stack Development
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=Learning%20At&message=CodingTemple&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/static/v1?label=Progress&message=71%25%20Complete&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
-</div>
-
-### Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-Structure%20&%20Semantics-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CSS3-Styling%20&%20Layout-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript-Dynamic%20Functionality-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" />
-</div>
-
-### Modern Frameworks
-<div align="center">
-  <img src="https://img.shields.io/badge/React-Component%20Based%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Bootstrap-Responsive%20Design-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Flask-Backend%20Framework-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
-</div>
-
-### Development Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Terminal-Command%20Line-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/grid.svg" width="100%">
-</div>
 
 ## [👻] Join Ghost Sec Elite
 ```python
