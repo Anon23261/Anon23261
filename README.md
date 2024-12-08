@@ -1,5 +1,7 @@
 # ⚡ Ghost Sec Operative: @Anon23261 ⚡
 
+<div align="center">
+
 ```ascii
     ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗    ███████╗███████╗ ██████╗
    ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝    ██╔════╝██╔════╝██╔════╝
@@ -9,7 +11,19 @@
     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚══════╝╚══════╝ ╚═════╝
 ```
 
+<img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/matrix.gif" width="100%">
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Senior+System+Architect;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
+</div>
+
 ## [⚡] Stats Matrix
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anon23261&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=github&number_format=long&count_private=true&show_icons=true&PAT_1=ghp_your_pat_here&stats_count=370&contributions=60&prs_count=4&stars_count=66"/>
@@ -24,6 +38,7 @@
 </div>
 
 ## [🔱] Technical Proficiency
+
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-Primary%20Language-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,7 +49,17 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Senior+System+Architect;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/grid.svg" width="100%">
+</div>
+
+## [💻] Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anon23261&custom_title=Ghost%20Sec%20Contribution%20Graph&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/binary.gif" width="100%">
 </div>
 
 ## [🎯] Professional Summary
