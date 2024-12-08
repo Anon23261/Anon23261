@@ -12,10 +12,14 @@
 ## [⚡] Stats Matrix
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&custom_title=Ghost%20Sec%20Stats&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&hide=issues&show_owner=true&include_all_commits=true&rank_icon=percentile&number_format=long&count_private=true&show_icons=true&theme=radical&PAT_1=ghp_your_pat_here&stats_count=370&contributions=60&prs_count=4&stars_count=66"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon23261&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Ghost%20Sec%20Stats&bg_color=0d1117&title_color=ff91a4&text_color=c9d1d9&icon_color=ff91a4&hide=issues&show_owner=true&include_all_commits=true&rank_icon=github&number_format=long&count_private=true&show_icons=true&PAT_1=ghp_your_pat_here&stats_count=370&contributions=60&prs_count=4&stars_count=66"/>
+</div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&custom_title=Code%20Arsenal&hide=html,css,jupyter%20notebook&card_width=445"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon23261&layout=donut&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff91a4&text_color=ff91a4&custom_title=Code%20Arsenal&hide=html,css,jupyter%20notebook"/>
+</div>
 
+<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Anon23261&theme=radical&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4"/>
 </div>
 
