@@ -1,6 +1,4 @@
-Here is the revised README content with the issues fixed for better display on the mobile app:
-
-```markdown
+'''markdown
 # ⚡ Ghost Sec Operative: @Anon23261 ⚡
 
 <div align="center">
