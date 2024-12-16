@@ -1,4 +1,3 @@
-'''markdown
 # ⚡ Ghost Sec Operative: @Anon23261 ⚡
 
 <div align="center">
