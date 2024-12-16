@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Impact&message=456%20Community%20Contributions&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Impact&message=62%20Community%20Contributions&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/static/v1?label=Recognition&message=66%20Project%20Stars&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
 </div>
 
