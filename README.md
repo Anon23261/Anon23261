@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Expertise&message=Ghost%20Language%20Development&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/static/v1?label=Grade&message=A+%20Professional&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Grade&message= A+ %20Professional&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <div align="center">
