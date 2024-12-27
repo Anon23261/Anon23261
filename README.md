@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Learning%20At&message=CodingTemple&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/static/v1?label=Progress&message=75%25%20Complete&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Progress&message=91%25%20Complete&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
 </div>
 
 ### Frontend Development
@@ -59,13 +59,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Commits&message=466%20Total%20Contributions&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Commits&message=672%20Total%20Contributions&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/static/v1?label=Projects&message=4%20Major%20Releases&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Impact&message=62%20Community%20Contributions&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/static/v1?label=Recognition&message=66%20Project%20Stars&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Recognition&message=103%20Project%20Stars&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <div align="center">
