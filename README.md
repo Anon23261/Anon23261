@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Learning%20At&message=CodingTemple&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/static/v1?label=Progress&message=91%25%20Complete&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/static/v1?label=Progress&message=100%25%20Complete&color=ff91a4&style=for-the-badge&labelColor=0d1117" />
 </div>
 
 ### Frontend Development
